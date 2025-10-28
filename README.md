@@ -34,9 +34,9 @@ SmartRide/
    ```
 4. Hasil akan menampilkan daftar pemesanan transportasi di terminal.
 
-📌 **Link YouTube Live Coding:** [Masukkan link di sini]
+📌 **Link YouTube Live Coding:** [https://www.youtube.com/live/kCgyKgEaQ6I?si=9zAKGnQ_xt6gNbRG]
 
-📌 **Link Repository GitHub:** [Masukkan link repo di sini]
+📌 **Link Repository GitHub:** [https://github.com/Saveroox/UTS-Mobile-SmartRide-OOP-Dart-/blob/main/smartride.dart]
 
 ## ✍️ Pembuat
 
